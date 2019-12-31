@@ -1,0 +1,26 @@
+
+        /* # là gọi id */
+        /* . là gọi class */
+        #fly{
+            font-size:15px;
+            color:teal;
+        }
+        .tomato{
+            color:tomato;
+        }
+        #p1{
+            height: 200px;
+            width: 1000;
+        }
+        /* nếu không có # hay .
+         mà chỉ có tên
+         thẻ thì tất cả các thẻ
+          tên đó sẽ bị ảnh hưởng */
+        .box1{
+            height: 800px;
+            width: 1500px;
+            /* tô màu nền */
+            background-color: red;
+            background-image: url(https://cdn7.dissolve.com/p/D1129_13_041/D1129_13_041_1200.jpg);
+            background-repeat: no-repeat;
+        }

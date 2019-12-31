@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#tieu_de{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ten{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 200px;
+    text-align: left;
+    font-weight: bold;
+    color: #666666;
+}
+.anh{
+    width: 200px;
+    height: 235;
+}
+.the_div{
+    display: inline-block;
+    width: 220px;
+ 
+}

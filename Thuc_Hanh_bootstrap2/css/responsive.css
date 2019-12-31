@@ -1,0 +1,36 @@
+/* responsive md */
+@media only screen and ( max-width:992px)
+{
+    #logo{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    #search input{
+        width: 80%;
+    }
+    #search button{
+        width: 20%;
+    }
+    .text-menu{
+        display: block;
+        font-size: 18px;
+        padding-left: 15px !important;
+    }
+    #slide,#list-banner{
+        display: none;
+    }
+    .info{
+        padding: 20px 0px;
+    }
+}
+@media only screen and ( max-width:768px)
+{
+    #logo{
+        text-align: left;
+    }
+    #sup-cart{
+        position: absolute;
+        right: 18px;
+        top: -76px;
+    }
+}

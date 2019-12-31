@@ -1,0 +1,8 @@
+/* định nghĩa khi màn hình co lại còn 500px */
+
+@media only screen and (max-width:500px){
+    .box1{
+        background-color: wheat;
+        width: 500px;
+    }
+}
